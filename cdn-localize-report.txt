@@ -1,6 +1,4 @@
-EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
-EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
-EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
+EMU OK a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76 cores=fceumm,snes9x
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
@@ -9,7 +7,6 @@ FAILED https://cdn.jsdelivr.net/gh/genizy/braybray/cellar-door.swf: curl: (22) T
 
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
@@ -26,7 +23,6 @@ FAILED https://cdn.jsdelivr.net/gh/Stinkalistic/Flash-games@main/clearvision5.sw
 
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE codename-gordon: https://raw.githubusercontent.com/Stinkalistic/UGS/refs/heads/main/SWFs/codenamegordon.swf -> assets/cdn/5906be81-codenamegordon.swf
 FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/colorwatersort3d/index.html: curl: (22) The requested URL returned error: 404
 
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
