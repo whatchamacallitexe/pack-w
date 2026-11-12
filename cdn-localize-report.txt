@@ -1,0 +1,68 @@
+FILE cannon-fodder: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE cannon-fodder: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@01b571b5914da40fab49b14349e37cdfc1551b36/Cannon%20Fodder%20(World).zip -> assets/cdn/caf631d7-Cannon_Fodder_World_.zip
+FILE castle-wars-modern: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1634776407504e21ede4452892bee0c7189b7fac/modstyles.css -> assets/cdn/da2fe443-modstyles.css
+FILE castle-wars-modern: https://cdn.jsdelivr.net/gh/st39/sdk@main/sdk.js -> assets/cdn/2731c095-sdk.js
+FILE castle-wars-modern: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1634776407504e21ede4452892bee0c7189b7fac/matrix.js -> assets/cdn/3ba5e71d-matrix.js
+FILE castle-wars-modern: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1634776407504e21ede4452892bee0c7189b7fac/tfdata.js -> assets/cdn/5175f3b9-tfdata.js
+FILE castle-wars-modern: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1634776407504e21ede4452892bee0c7189b7fac/tfmodel.js -> assets/cdn/db6c6448-tfmodel.js
+FILE castle-wars-modern: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1634776407504e21ede4452892bee0c7189b7fac/modelw.js -> assets/cdn/a40a8a97-modelw.js
+FILE castle-wars-modern: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1634776407504e21ede4452892bee0c7189b7fac/modwasm.js -> assets/cdn/4532b9bb-modwasm.js
+FILE castle-wars-modern: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1634776407504e21ede4452892bee0c7189b7fac/modcheck.js -> assets/cdn/a32996b1-modcheck.js
+FILE castle-wars-modern: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1634776407504e21ede4452892bee0c7189b7fac/modoff.js -> assets/cdn/1f14bf8f-modoff.js
+FILE castle-wars-modern: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1634776407504e21ede4452892bee0c7189b7fac/modmain.js -> assets/cdn/f0137edf-modmain.js
+FILE castle-wars-modern: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1634776407504e21ede4452892bee0c7189b7fac/modsw.js -> assets/cdn/e9fb1592-modsw.js
+FILE castle-wars-modern: https://cdn.jsdelivr.net/gh/st39/sdk@main/api.js -> assets/cdn/bd41ea11-api.js
+FILE castlevania-2: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE castlevania-2: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE castlevania-2: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FILE castlevania-3: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE castlevania-3: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE castlevania-3: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE cat-mario: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE cat-mario: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/catmario.swf -> assets/cdn/1498da20-catmario.swf
+BASE OK bubbls/UGS-Assets@0f95cc77a7b2663210b37232e2e6e0d15514be62/cats love cake 2 -> cats-love-cake-2
+BASE REWRITE cats-love-cake-2
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE cellar-door: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FAILED https://cdn.jsdelivr.net/gh/genizy/braybray/cellar-door.swf: curl: (22) The requested URL returned error: 403
+
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE chaos-faction-2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE chaos-faction-2: https://cdn.jsdelivr.net/gh/Stinkalistic/Flash-games@main/535370_CF2_NG.swf -> ../_shared/d9bd2642479c-535370_CF2_NG.swf
+FILE chrono-trigger: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE chrono-trigger: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/chronotrigger/Chrono%20Trigger%20(U)%20%5B!%5D.smc -> assets/cdn/75da6d4c-Chrono_Trigger_U_.smc
+FILE chrono-trigger: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE chrono-trigger: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE civiballs-2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE civiballs-2: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@8205c6599503d47644759535bc08277ad745b1f2/510812_civiballs_2.swf -> assets/cdn/7bb2611d-510812_civiballs_2.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE clear-vision-2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE clear-vision-2: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@81cdca37f436dee09e71f956eef518883c9fea66/412833_Clear_Vision_II.swf -> assets/cdn/01f71e4d-412833_Clear_Vision_II.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE clear-vision-3: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE clear-vision-3: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@81cdca37f436dee09e71f956eef518883c9fea66/452318_clear.swf -> assets/cdn/2ccf4c2c-452318_clear.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE clear-vision-4: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FAILED https://cdn.jsdelivr.net/gh/Stinkalistic/Flash-games@main/clearvision4.swf: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE clear-vision-5: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FAILED https://cdn.jsdelivr.net/gh/Stinkalistic/Flash-games@main/clearvision5.swf: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE codename-gordon: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE crunch-ball-3000: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE crunch-ball-3000: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@267534cf456548d7412e9989432ad8c8f2053286/crunchball-3000-3803.swf -> assets/cdn/83ee7789-crunchball-3000-3803.swf
